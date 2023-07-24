@@ -1,0 +1,10 @@
+module.exports.authValidation = require("./auth.validation");
+module.exports.userValidation = require("./user.validation");
+module.exports.pillarValidation = require("./pillar.validation");
+module.exports.goalValidation = require("./goal.validation");
+module.exports.projectCollection = require("./project.validation");
+module.exports.dashboardValidation = require("./dashboard.validation");
+module.exports.payReleaseValidation = require("./payRelease.validate");
+module.exports.requestValidation = require("./request.validation");
+module.exports.proposedProjectValidation = require("./proposedProject.validation");
+module.exports.locationValidation = require("./location.validation");

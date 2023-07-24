@@ -1,0 +1,14 @@
+module.exports.authService = require("./auth.service");
+module.exports.emailService = require("./email.service");
+module.exports.tokenService = require("./token.service");
+module.exports.userService = require("./user.service");
+module.exports.pillarService = require("./pillar.service");
+module.exports.goalService = require("./goal.service");
+module.exports.projectService = require("./project.service");
+module.exports.counter = require("./counter.service");
+module.exports.dashboardService = require("./dashboard.service");
+module.exports.payReleaseService = require("./payRelease.service");
+module.exports.requestService = require("./request.service");
+module.exports.proposedProjectService = require("./proposedProject.service");
+module.exports.locationService = require("./location.service");
+module.exports.logsService = require("./logs.service");
